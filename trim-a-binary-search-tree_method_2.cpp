@@ -1,5 +1,7 @@
 //https://www.lintcode.com/problem/trim-a-binary-search-tree/description
 
+//https://www.youtube.com/watch?v=L_t2x3nH61k
+
 /**
  * Definition of TreeNode:
  * class TreeNode {
